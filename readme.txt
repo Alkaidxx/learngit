@@ -1,3 +1,3 @@
 this is a man first use git
-let us what i can do
+let us show what i can do
 hey
